@@ -1,23 +1,10 @@
 title: "I-Chen Chou"
-author: I-Chen Chou
 
 remote_theme: abhinavs/moonwalk
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-paginate
-
-markdown: kramdown
 
 navigation:
   - title: Home
     url: /
-  - title: Blog
-    url: /blog/
-  - title: Resume/CV
-    url: /resume/
-  - title: Links
-    url: /links/
-
-paginate: 5
-paginate_path: "/blog/page:num/"
