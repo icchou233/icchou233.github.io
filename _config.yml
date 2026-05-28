@@ -2,11 +2,13 @@ title: "icchou233's blog"
 author: I-Chen Chou
 description: It is literally a personal website.
 
-theme: minima
+remote_theme: abhinavs/moonwalk
 
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
+
+markdown: kramdown
 
 navigation:
   - title: Home
