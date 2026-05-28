@@ -1,19 +1,27 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.3"
-
 gem "jekyll-remote-theme", "~> 0.4.3"
 
-# Common GitHub Pages plugins
 gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 gem "jekyll-paginate"
 gem "jekyll-include-cache"
-
-# Moonwalk dependency
+gem "jekyll-github-metadata"
 gem "jekyll-soopr-seo-tag"
+gem "jekyll-markdown-output"
 
-# Ruby compatibility
+gem "kramdown"
+gem "rouge"
+
+gem "sassc"
+gem "jekyll-sass-converter"
+
+gem "liquid"
+
 gem "rexml"
 gem "webrick"
+
+gem "faraday"
+gem "faraday-retry"
