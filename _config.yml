@@ -4,7 +4,19 @@ remote_theme: abhinavs/moonwalk
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-soopr-seo-tag
 
 navigation:
   - title: Home
     url: /
+
+  - title: About
+    url: /about/
+
+paginate: 5
+paginate_path: "/blog/page:num/"
