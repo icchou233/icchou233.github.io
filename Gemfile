@@ -11,6 +11,7 @@ gem "jekyll-include-cache"
 gem "jekyll-github-metadata"
 gem "jekyll-soopr-seo-tag"
 gem "jekyll-markdown-output"
+gem "jekyll-llms-output"
 
 gem "kramdown"
 gem "rouge"
