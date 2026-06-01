@@ -18,10 +18,10 @@ markdown: kramdown
 highlighter: rouge
 
 navbar_entries:
-  - title: Home
+  - title: TEST123
     url: /
 
-  - title: Blog
+  - title: TEST456
     url: /blog/
 
 theme_config:
