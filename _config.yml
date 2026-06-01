@@ -17,15 +17,15 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
-navigation:
+navbar_entries:
   - title: Home
     url: /
 
   - title: Blog
-    url: /blog/
+    url: blog
 
   - title: Resume/CV
-    url: /cv/
+    url: cv
 
   - title: Social Media
-    url: /links/
+    url: links
