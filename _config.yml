@@ -22,14 +22,8 @@ navbar_entries:
     url: /
 
   - title: Blog
-    url: blog
-
-  - title: Resume/CV
-    url: cv
-
-  - title: Social Media
-    url: links
+    url: /blog/
 
 theme_config:
   appearance: "auto"
-  show_navbar: true
+  show_navbar: 
