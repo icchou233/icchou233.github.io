@@ -1,6 +1,6 @@
 ---
 layout: home
-title: THIS IS A TEST
+title: "CONFIG TEST 12345"
 ---
 
 Hello! My name is I-Chen Chou.
