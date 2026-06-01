@@ -12,6 +12,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-soopr-seo-tag
   - jekyll-markdown-output
+  - jekyll-llms-output
 
 markdown: kramdown
 highlighter: rouge
