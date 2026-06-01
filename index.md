@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to my blog
+title: THIS IS A TEST
 ---
 
 Hello! My name is I-Chen Chou.
