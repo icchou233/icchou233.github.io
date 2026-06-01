@@ -26,4 +26,4 @@ navbar_entries:
 
 theme_config:
   appearance: "auto"
-  show_navbar: 
+  show_navbar: true
