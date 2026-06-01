@@ -21,5 +21,11 @@ navigation:
   - title: Home
     url: /
 
-  - title: About
-    url: /about/
+  - title: Blog
+    url: /blog/
+
+  - title: Resume/CV
+    url: /cv/
+
+  - title: Social Media
+    url: /links/
