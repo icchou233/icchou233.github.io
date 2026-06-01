@@ -17,6 +17,11 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
+theme_config:
+  appearance: "auto"
+  show_navbar: true
+  show_blog: true
+
 navbar_entries:
   - title: Home
     url: /
