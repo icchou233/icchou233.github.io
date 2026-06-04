@@ -20,13 +20,3 @@ highlighter: rouge
 theme_config:
   appearance: "auto"
   show_navbar: true
-
-  navbar_entries:
-    - title: Home
-      url: /
-
-    - title: Blog
-      url: /blog/
-
-    - title: Resume
-      url: /cv/
