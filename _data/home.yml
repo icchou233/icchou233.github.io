@@ -1,0 +1,5 @@
+navbar_entries:
+  - title: Blog
+    url: blog
+  - title: Resume/CV
+    url: resume
