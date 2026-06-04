@@ -17,13 +17,16 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
-navbar_entries:
-  - title: TEST123
-    url: /
-
-  - title: TEST456
-    url: /blog/
-
 theme_config:
   appearance: "auto"
   show_navbar: true
+
+  navbar_entries:
+    - title: Home
+      url: /
+
+    - title: Blog
+      url: /blog/
+
+    - title: Resume
+      url: /cv/
