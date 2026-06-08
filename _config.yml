@@ -19,4 +19,5 @@ highlighter: rouge
 
 theme_config:
   appearance: "auto"
+  appearance_toggle: true
   show_navbar: true
