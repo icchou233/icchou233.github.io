@@ -9,4 +9,4 @@ I am an incoming first-year student at UC Irvine majoring in Computer Science an
 
 I previously attended high school in San Jose, CA. My main activities during that time period were participating in multiple Math/CS competitions and volunteering with the Competitive Programming Initiative. 
 
-My career goal is to build technology that many people will find useful and accessible.
+FYI: This is a work in progress.
