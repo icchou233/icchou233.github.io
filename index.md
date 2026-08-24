@@ -4,10 +4,11 @@ title: "I-Chen Chou"
 ---
 
 Hello! My name is I-Chen Chou.
+I am an incoming freshman at UC Irvine as a Computer Science and Engineering major. I came from San Jose, CA.
 
-I am an incoming first-year student at UC Irvine as an intended Computer Science major. I come from San Jose, CA. 
+I previously did <a href="https://usaco.guide/general/intro-cp">competitive programming</a> in high school.
 
-My interests include <a href="https://usaco.guide/general/intro-cp">competitive programming</a>.
-In college, I plan on being involved with CS research, as well as joining a few clubs here at UCI.
+This website is a work in progress, which is why you don't see anything else here. 
+(It's currently senioritis summer for me...)
 
-My future career goal is to work as a software engineer.
+if you somehow ever see this page dm me on discord lol
