@@ -1,4 +1,13 @@
-Sunday 9/20
+---
+layout: post
+title: "College Week 1"
+description: "My first week of college"
+date: 2026-10-06
+---
+
+This comes more than a week late, but I've been mad procrastinating and trying to adjust college life.
+
+**Sunday 9/20**
 I move in at 11 AM. My roommates are Ben and Akilah. All of us are CSE majors.
 I grabbed lunch with my parents at Brandywine. After I visited the bookstore once more with them, I said goodbye to my parents and basically had nothing to do for the rest of the day. I spent some of my time walking around campus before going to dinner, where I met someone I somewhat know from high school (Brian) and talked with him. 
 My roommates were very nice; for example, they let me have an extension cord and offered to go to UTC with me when I wanted to buy something. On the other hand, I overestimated dorm quality. 
